@@ -30,7 +30,19 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Presentation
 
-### Simple and efficient to do list app
+### Simple, efficient and responsive to do list app
 You can add a pos-it with a title and a content. Clicking on the right corner, you can delete the post-it or simply remove some content. All your data is save locally in your localStorage and also backed up remotely through an API. 
+## Presentation
 ![presentation site web](image/presentation.png) 
+![presentation site web](image/Responsive.png) 
+
+## Modal and remove options
+## Presentation
+![presentation site web](image/Modal.png) 
+
+## Add category 
+![presentation site web](image/category.png) 
+
+## Search bar 
+![presentation site web](image/searchbar.png) 
 
