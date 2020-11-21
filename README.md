@@ -21,7 +21,6 @@ You can add a pos-it with a title and a content. Clicking on the right corner, y
 ![presentation site web](image/presentation.png) 
 
 ## Modal and remove options
-## Presentation
 ![presentation site web](image/Modal.png) 
 
 ## Add category 
