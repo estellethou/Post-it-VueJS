@@ -4,14 +4,13 @@
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
 
 ## Presentation
 
@@ -28,4 +27,9 @@ You can add a pos-it with a title and a content. Clicking on the right corner, y
 
 ## Search bar 
 ![presentation site web](image/searchbar.png) 
+
+
+## Frameworks 
+Vue JS, Vuex, bootstrap CSS
+
 
