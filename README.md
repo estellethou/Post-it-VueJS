@@ -34,7 +34,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 You can add a pos-it with a title and a content. Clicking on the right corner, you can delete the post-it or simply remove some content. All your data is save locally in your localStorage and also backed up remotely through an API. 
 ## Presentation
 ![presentation site web](image/presentation.png) 
-![presentation site web](image/Responsive.png) 
 
 ## Modal and remove options
 ## Presentation
