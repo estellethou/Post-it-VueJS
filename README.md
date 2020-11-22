@@ -28,8 +28,10 @@ You can add a pos-it with a title and a content. Clicking on the right corner, y
 ## Search bar 
 ![presentation site web](image/searchbar.png) 
 
-
 ## Frameworks 
 Vue JS, Vuex, bootstrap CSS
+
+## Tutorial
+Here is the tutorial on which I based my project [Vuex Crash Course | State Management](https://www.youtube.com/watch?v=5lVQgZzLMHc)
 
 
